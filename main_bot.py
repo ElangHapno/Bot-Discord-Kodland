@@ -64,5 +64,5 @@ async def anorganik(ctx):
     await ctx.send('berikut daftar sampah anorganik:')
     await ctx.send(sampah)
 
-bot.run("MTE5NDI2NTA1MDI2MTc3MDMwMA.GvxKNH.T5Gc8wdVGaD-lNh9PclydAw4ET89iTnNHjxucI")
+bot.run("ISI TOKEN MU")
  
