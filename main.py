@@ -22,4 +22,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTE5NDI2NTA1MDI2MTc3MDMwMA.GvxKNH.T5Gc8wdVGaD-lNh9PclydAw4ET89iTnNHjxucI")
+client.run("ISI TOKEN MU")
